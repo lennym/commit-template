@@ -1,0 +1,24 @@
+{
+  "name": "commit-template",
+  "version": "0.0.0",
+  "description": "Allows projects to define commit template files",
+  "bin": {
+    "commit-template": "./bin/commit-template"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennym/commit-template.git"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "template",
+    "commitlint"
+  ],
+  "author": "Leonard Martin <hello@lennym.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lennym/commit-template/issues"
+  },
+  "homepage": "https://github.com/lennym/commit-template#readme"
+}

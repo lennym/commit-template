@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+const msg = require('../lib/commit-template');
+
+(async () => await msg())();
